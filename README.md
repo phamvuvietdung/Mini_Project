@@ -1,1 +1,1 @@
-This place is contain some mini project by me
+This place is contain some my mini project
