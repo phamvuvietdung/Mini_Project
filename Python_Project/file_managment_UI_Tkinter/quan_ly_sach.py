@@ -1,4 +1,5 @@
 '''
+Sử dụng tkinter
 Phần mềm để quản lý sách có các chức năng
 - Lưu file
 - Độc file
